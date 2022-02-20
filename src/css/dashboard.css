@@ -5,8 +5,29 @@
   margin-right: 20px;
 }
 
-.upper_cards_section .card_secondary_text {
-  font-size: 12px;
-  color: #8e8e8e;
+.upper_cards_section .card {
+  padding: 10px;
+  border-radius: 25px;
+  width: 30%;
+}
+
+.upper_cards_section .icon-wrapper {
+  margin: 20px;
+  height: 80px;
+  width: 90px;
+  text-align: center;
+  padding: 10px;
+  border: 2px solid red;
+  border-radius: 25px;
+}
+
+.upper_cards_section .card-title {
+  margin-top: 10px;
+}
+
+.upper_cards_section .card-value {
+  margin-top: 10px;
+  font-size: 30px;
+  font-weight: bold;
 }
 /*# sourceMappingURL=dashboard.css.map */
