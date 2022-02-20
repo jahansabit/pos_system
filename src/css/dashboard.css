@@ -1,0 +1,12 @@
+.upper_cards_section {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.upper_cards_section .card_secondary_text {
+  font-size: 12px;
+  color: #8e8e8e;
+}
+/*# sourceMappingURL=dashboard.css.map */
