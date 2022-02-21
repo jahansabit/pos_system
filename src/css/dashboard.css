@@ -6,18 +6,20 @@
 }
 
 .upper_cards_section .card {
+  margin-left: 8px;
+  color: white;
   padding: 10px;
   border-radius: 25px;
-  width: 30%;
+  width: 23%;
 }
 
 .upper_cards_section .icon-wrapper {
-  margin: 20px;
-  height: 80px;
-  width: 90px;
+  margin: 10px;
+  height: 70%;
+  width: 100%;
   text-align: center;
   padding: 10px;
-  border: 2px solid red;
+  border: 2px solid white;
   border-radius: 25px;
 }
 
